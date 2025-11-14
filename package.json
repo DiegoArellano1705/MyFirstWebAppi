@@ -17,5 +17,8 @@
 		"svelte": "^5.39.5",
 		"tailwindcss": "^4.1.13",
 		"vite": "^7.1.7"
+	},
+	"dependencies": {
+		"@sveltejs/adapter-vercel": "^6.1.1"
 	}
 }
